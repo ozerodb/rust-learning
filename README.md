@@ -2,6 +2,16 @@
 
 All the material and code produced by me while learning Rust🦀
 
+- [Rust Learning](#rust-learning)
+  - [Quick links](#quick-links)
+  - [References and guides](#references-and-guides)
+  - [Exercises in Rust](#exercises-in-rust)
+  - [Code challenges](#code-challenges)
+  - [Cool Rust things I would like to try using](#cool-rust-things-i-would-like-to-try-using)
+    - [Frameworks and libraries](#frameworks-and-libraries)
+    - [Tools](#tools)
+    - [Other useful repositories](#other-useful-repositories)
+
 ## Quick links
 
 - [Rust website](https://www.rust-lang.org/)
