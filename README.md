@@ -7,6 +7,7 @@ All the material and code produced by me while learning Rust🦀
   - [References and guides](#references-and-guides)
   - [Exercises in Rust](#exercises-in-rust)
   - [Code challenges](#code-challenges)
+  - [Videos](#videos)
   - [Cool Rust things I would like to try using](#cool-rust-things-i-would-like-to-try-using)
     - [Frameworks and libraries](#frameworks-and-libraries)
     - [Tools](#tools)
@@ -18,6 +19,7 @@ All the material and code produced by me while learning Rust🦀
 - [Rust Playground](https://play.rust-lang.org/)
 - [Learn Rust](https://www.rust-lang.org/learn)
 - [Rust std Documentation](https://doc.rust-lang.org/std/index.html)
+- [Rust Cheatsheet](https://cheats.rs/)
 - [Rust Community](https://www.rust-lang.org/community)
 - [crates.io](https://crates.io/)
 
@@ -27,6 +29,7 @@ All the material and code produced by me while learning Rust🦀
 - [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 - [Rust API Guidelines](https://rust-lang-nursery.github.io/api-guidelines/)
+- [fasterthanli.me (blog)](https://fasterthanli.me/tags/rust)
 
 ## Exercises in Rust
 
@@ -42,6 +45,12 @@ All the material and code produced by me while learning Rust🦀
 - [Advent of Code](https://adventofcode.com/)
 - [Code Golf](https://code.golf/)
 - [HackerRank](https://www.hackerrank.com/)
+
+## Videos
+
+- [Rust for the Impatient](https://www.youtube.com/watch?v=br3GIIQeefY)
+- [Rust Tutorial Full Course](https://www.youtube.com/watch?v=ygL_xcavzQ4)
+- [Understanding Ownership in Rust](https://www.youtube.com/watch?v=VFIOSWy93H0)
 
 ## Cool Rust things I would like to try using
 
